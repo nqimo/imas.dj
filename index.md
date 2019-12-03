@@ -3,6 +3,14 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2020年1月
+
+パーティー|日時|場所
+-|-|-
+[ほぴ☆じゃむ↑14回目 DANCE MASTER実験部](https://twipla.jp/events/419521)|9日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
+[第二回アイドルマスター違反者講習会](https://twipla.jp/events/412904)|11日14時〜|[新大久保ユニークラボラトリー](https://www.unique-laboratory.tokyo)
+[DANCE MASTER 39th～11th anniversary～](https://twipla.jp/events/423026)|29日13時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
+
 # 2019年12月
 
 パーティー|日時|場所
