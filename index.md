@@ -7,6 +7,7 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
+[アイマスガールズナイト](http://alchemi.bar/events/)|11日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)
 [Hotel Raizeenside#35](https://twipla.jp/events/420729)|20日19時〜|[中野雷神](http://www.raizeen.com/)
 [第9回アイマすたぁ土曜の部](https://twipla.jp/events/412554)|21日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 [アイマすたぁ WEEKDAY PARTY THE 21th](https://twipla.jp/events/423375)|26日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
