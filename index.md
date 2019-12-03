@@ -3,6 +3,14 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2019年12月
+
+パーティー|日時|場所
+-|-|-
+[Hotel Raizeenside#35](https://twipla.jp/events/420729)|20日19時〜|[中野雷神](http://www.raizeen.com/)
+[第9回アイマすたぁ土曜の部](https://twipla.jp/events/412554)|21日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
+[アイマすたぁ WEEKDAY PARTY THE 21th](https://twipla.jp/events/423375)|26日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
+
 # 2019年11月
 
 パーティー|日時|場所
@@ -17,11 +25,12 @@ title: アイマスDJイベントまとめ
 [Special 3chord♪ Funky Dancing! Day2](https://idolmaster.jp/event/cinderella7th/information.php)|10日14時〜|[ナゴヤドーム](http://www.nagoya-dome.co.jp)
 [アイマスガールズナイト](http://alchemi.bar/events/)|13日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)
 [ほぴ☆じゃむ↑13回目 DANCE MASTER実験部](https://twipla.jp/events/407415)|14日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
+[Hotel Raizeenside#34](https://twipla.jp/events/416757)|15日19時〜|[中野雷神](http://www.raizeen.com/)
 [SCGP&SMLP](https://twipla.jp/events/406217)|17日13時〜|[仙台Music Dining ark](https://ark-sendai.net)
 [マスプロex](https://twitter.com/orion_niconico/status/1192051798707589120)|18日19時〜|札幌ふぁーすて
 [しんけん!劇場 Vol.02](https://twipla.jp/events/388143)|23日13時〜|[大分BackStage](http://www.backstage-oita.com)
 [理由あって、オンリー！](https://twipla.jp/events/409777)|24日13時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
-[アイマすたぁ WEEKDAY PARTY](http://www.alchemistar.jp)|26日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
+[アイマすたぁ WEEKDAY PARTY THE 20th](https://twipla.jp/events/420560)|26日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 
 # 2019年10月
 
