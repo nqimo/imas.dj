@@ -57,6 +57,7 @@ title: アイマスDJイベントまとめ
 
 |パーティー|日時|場所|
 |-|-|-|
+[アイドルマスター シンデレラガールズ DJ PARTY](https://idolmaster.jp/blog/?p=65749)|1日|アニON
 |[アイマスガールズナイト](http://alchemi.bar/events/)|11日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)|
 |[ほぴ☆じゃむ↑12回目 DANCE MASTER実験部](https://twipla.jp/events/376628)|12日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)|
 |[北陸アイマスオンリーイベント【H@ppy Space 2nd】](https://twipla.jp/events/384009)|14日13時半〜|[金沢etc.link](https://etclink.com)|
@@ -152,4 +153,3 @@ title: アイマスDJイベントまとめ
 |[DANCE MASTER 37](https://twipla.jp/events/351882)|2019年1月20日13時〜|中野heavysickZERO|
 |[アイマすたぁ](http://www.alchemistar.jp)|2019年1月22日19時〜|新宿あるけみすたぁ|
 |[NoNoWire on floor 5](https://club-mogra.jp/2019/01/27/3710/)|2019年1月27日13時〜|秋葉原MOGRA|
-
