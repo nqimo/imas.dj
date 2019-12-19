@@ -99,7 +99,7 @@ title: アイマスDJイベントまとめ
 |[アイマスガールズナイト](http://alchemi.jp/event.html)|2019年6月12日19時〜|[秋葉原あるけみすと](http://alchemi.bar/events/)|
 |[第7回アイマすたぁ土曜の部](https://twipla.jp/events/379049)|2019年6月15日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
 |[Harim@s](https://twipla.jp/events/375555)|2019年6月15日22時〜|[加古川CAFE GEEEK](https://8760.jp)|
-|[アイドルマスター シンデレラガールズ プロデューサーさん感謝祭](https://columbia.jp/idolmaster/imasnews/kanshasai2019.html)|2019年6月16日18時〜|[新木場スタジオコースト](https://www.studio-coast.com)|
+|[シンデレラガールズ プロデューサーさん感謝祭](https://columbia.jp/idolmaster/imasnews/kanshasai2019.html)|2019年6月16日18時〜|[新木場スタジオコースト](https://www.studio-coast.com)|
 |[Hotel Raizeenside 29](https://twipla.jp/events/386731)|2019年6月21日19時半〜|[中野雷神](http://www.raizeen.com/)|
 |[アイマすたぁ WEEKDAY PARTY THE 15th](https://twipla.jp/events/389593)|2019年6月25日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
 
