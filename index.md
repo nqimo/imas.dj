@@ -65,6 +65,7 @@ title: アイマスDJイベントまとめ
 |[第8回アイマすたぁ土曜の部](https://twipla.jp/events/391745)|14日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)|
 |[#ますてる Vol.2 -Cinderella's Palette-](https://twipla.jp/events/397871)|15日13時〜|[四谷サロンガイヤール](https://gaillard.jp)|
 |[Hotel Raizeenside#32](https://twipla.jp/events/404983)|20日19時〜|[中野雷神](http://www.raizeen.com/)|
+[第4回 IM@S DJ Party!@上海 ](http://www.animebu.moe/news/326)|27日16時〜|[上海萌果酱女仆咖啡屋](https://www.weibo.com/maidjump?is_hot=1)
 
 # 2019年8月
 
