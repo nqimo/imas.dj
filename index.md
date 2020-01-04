@@ -12,6 +12,7 @@ title: アイマスDJイベントまとめ
 [アイマスガールズナイト番外編](https://twipla.jp/events/425614)|12日17時〜|[浅草stella](http://asakusa.stella.ne.jp)
 [Hotel Raizeenside#36](https://twipla.jp/events/427458)|27日19時〜|[中野雷神](http://www.raizeen.com/)
 [DANCE MASTER 39th～11th anniversary～](https://twipla.jp/events/423026)|26日13時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
+[アイマすたぁ WEEKDAY PARTY THE 22th](https://twipla.jp/events/429136)|26日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 
 # 2019年12月
 
