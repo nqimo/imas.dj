@@ -11,8 +11,8 @@ title: アイマスDJイベントまとめ
 [第二回アイドルマスター違反者講習会](https://twipla.jp/events/412904)|11日14時〜|[新大久保ユニークラボラトリー](https://www.unique-laboratory.tokyo)
 [アイマスガールズナイト番外編](https://twipla.jp/events/425614)|12日17時〜|[浅草stella](http://asakusa.stella.ne.jp)
 [Hotel Raizeenside#36](https://twipla.jp/events/427458)|17日19時〜|[中野雷神](http://www.raizeen.com/)
-[DANCE MASTER 39th～11th anniversary～](https://twipla.jp/events/423026)|26日13時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [#ますてる Vol.3.5 -The World is ALL NIGHT!!-](https://twipla.jp/events/424874)|24日22時〜|[大塚はぴ吉](https://peraichi.com/landing_pages/view/q7m6h)
+[DANCE MASTER 39th～11th anniversary～](https://twipla.jp/events/423026)|26日13時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [アイマすたぁ WEEKDAY PARTY THE 22th](https://twipla.jp/events/429136)|28日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 
 # 2019年12月
