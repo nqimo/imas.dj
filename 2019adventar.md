@@ -1,4 +1,6 @@
-# アイマスDJイベントまとめサイトのダイマ
+---
+title: アイマスDJイベントまとめ
+---
 
 これは[アイドルマスター Advent Calendar 2019](https://adventar.org/calendars/3920)の記事です。
 
