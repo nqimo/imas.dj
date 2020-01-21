@@ -12,6 +12,7 @@ title: アイマスDJイベントまとめ
 [アイマスガールズナイト番外編](https://twipla.jp/events/425614)|12日17時〜|[浅草stella](http://asakusa.stella.ne.jp)
 [Hotel Raizeenside#36](https://twipla.jp/events/427458)|17日19時〜|[中野雷神](http://www.raizeen.com/)
 [#ますてる Vol.3.5 -The World is ALL NIGHT!!-](https://twipla.jp/events/424874)|24日22時〜|[大塚はぴ吉](https://peraichi.com/landing_pages/view/q7m6h)
+[ＡｏＭ＠Ｓ　Ｖｏｌ２](https://twipla.jp/events/426709)|25日18時半〜|[弘前EVENT HOUSE SHAKE](https://twitter.com/shake1022)
 [DANCE MASTER 39th～11th anniversary～](https://twipla.jp/events/423026)|26日13時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [アイマすたぁ WEEKDAY PARTY THE 22th](https://twipla.jp/events/429136)|28日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 
