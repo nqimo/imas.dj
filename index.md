@@ -9,6 +9,7 @@ title: アイマスDJイベントまとめ
 -|-|-
 [＃立祭　～第一回～](https://twipla.jp/events/423634)|3日17時〜|[新宿azito](https://sinjuku-azito.com/)
 [アイマスガールズナイト](http://alchemi.bar/events/)|12日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)
+[7thLIVE After ミツボシフェスタ！　1st in 大阪‼](https://twipla.jp/events/427089)|15日22時半〜|[心斎橋Eden The Hole](https://www.s-eden.jp/)
 [H@PPY M@STER Vol.3](https://twipla.jp/events/419611)|15日23時〜|[日本橋barguild4F&6F](http://barguild.com/)
 [M@STER BOOT RECORD](https://twipla.jp/events/410453)|23日14時〜|[Music&Bar FAME](https://famengn.wixsite.com/fame)
 [アイマすたぁ WEEKDAY PARTY THE 23th](http://www.alchemistar.jp/timetable.html)|25日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
