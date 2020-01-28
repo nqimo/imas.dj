@@ -10,6 +10,8 @@ title: アイマスDJイベントまとめ
 [＃立祭　～第一回～](https://twipla.jp/events/423634)|3日17時〜|[新宿azito](https://sinjuku-azito.com/)
 [アイマスガールズナイト](http://alchemi.bar/events/)|12日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)
 [H@PPY M@STER Vol.3](https://twipla.jp/events/419611)|15日23時〜|[日本橋barguild4F&6F](http://barguild.com/)
+[M@STER BOOT RECORD](https://twipla.jp/events/410453)|23日14時〜|[Music&Bar FAME](https://famengn.wixsite.com/fame)
+[Yes!! Cinderella time!! 5th](https://twipla.jp/events/428277)|29日14時〜|[fai青山](http://www.fai-aoyama.com/)
 
 # 2020年1月
 
