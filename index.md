@@ -7,6 +7,7 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
+[アイマスガールズナイト](http://alchemi.bar/events/)|8日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)
 [ほぴ☆じゃむ↑14回目 DANCE MASTER実験部](https://twipla.jp/events/419521)|9日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [第二回アイドルマスター違反者講習会](https://twipla.jp/events/412904)|11日14時〜|[新大久保ユニークラボラトリー](https://www.unique-laboratory.tokyo)
 [アイマスガールズナイト番外編](https://twipla.jp/events/425614)|12日17時〜|[浅草stella](http://asakusa.stella.ne.jp)
