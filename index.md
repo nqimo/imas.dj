@@ -3,6 +3,14 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2020年2月
+
+パーティー|日時|場所
+-|-|-
+[＃立祭　～第一回～](https://twipla.jp/events/423634)|3日17時〜|[新宿azito](https://sinjuku-azito.com/)
+[アイマスガールズナイト](http://alchemi.bar/events/)|12日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)
+[H@PPY M@STER Vol.3](https://twipla.jp/events/419611)|15日23時〜|[日本橋barguild4F&6F](http://barguild.com/)
+
 # 2020年1月
 
 パーティー|日時|場所
