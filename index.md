@@ -11,6 +11,7 @@ title: アイマスDJイベントまとめ
 [アイマスガールズナイト](http://alchemi.bar/events/)|12日19時〜|[秋葉原あるけみすと](http://alchemi.bar/)
 [7thLIVE After ミツボシフェスタ！　1st in 大阪‼](https://twipla.jp/events/427089)|15日22時半〜|[心斎橋Eden The Hole](https://www.s-eden.jp/)
 [H@PPY M@STER Vol.3](https://twipla.jp/events/419611)|15日23時〜|[日本橋barguild4F&6F](http://barguild.com/)
+[Hotel Raizeenside#37](https://twipla.jp/events/436877)|21日19時〜|[中野雷神](http://www.raizeen.com/)
 [M@STER BOOT RECORD](https://twipla.jp/events/410453)|23日14時〜|[Music&Bar FAME](https://famengn.wixsite.com/fame)
 [アイマすたぁ WEEKDAY PARTY THE 23th](http://www.alchemistar.jp/timetable.html)|25日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 [Yes!! Cinderella time!! 5th](https://twipla.jp/events/428277)|29日14時〜|[fai青山](http://www.fai-aoyama.com/)
