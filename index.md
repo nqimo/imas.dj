@@ -7,7 +7,7 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
-[ほぴ☆じゃむ↑15回目 DANCE MASTER実験部](https://twipla.jp/events/430421)|12日19時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
+[ほぴ☆じゃむ↑15回目 DANCE MASTER実験部](https://twipla.jp/events/430421)|~12日19時〜~延期|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [M@STER BOWL #5](https://twipla.jp/events/421797)|20日13時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [んじます！vol.3](https://twitter.com/derenji_tour/status/1226461343605092352)|29日昼イベント|[秋葉原MOGRA](https://club-mogra.jp/)
 
