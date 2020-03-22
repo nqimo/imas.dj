@@ -13,7 +13,6 @@ title: アイマスDJイベントまとめ
 [んじます！vol.3](http://twvt.me/njimas_vol3)|29日昼イベント|[秋葉原MOGRA](https://club-mogra.jp/)
 [アイマすたぁ WEEKDAY PARTY THE 23th](http://www.alchemistar.jp/timetable.html)|25日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 [札幌アイマス交流会](https://twipla.jp/events/424431)|31日18時|[札幌ロコトンテ](https://www.locotonte.com/)
-[アイマすたぁ WEEKDAY PARTY THE 23th](http://www.alchemistar.jp/timetable.html)|25日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 
 # 2020年2月
 
