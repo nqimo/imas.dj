@@ -12,7 +12,7 @@ title: アイマスDJイベントまとめ
 [第三回アイドルマスター違反者講習会](https://twipla.jp/events/431006)|22日14時〜|[六本木V2 TOKYO](https://www.v2tokyo.com/)
 [アイマすたぁ WEEKDAY PARTY THE 23th](http://www.alchemistar.jp/timetable.html)|24日19時〜|[新宿あるけみすたぁ](http://www.alchemistar.jp)
 [んじます！vol.3](http://twvt.me/njimas_vol3)|延期|[秋葉原MOGRA](https://club-mogra.jp/)
-[にじすこ！ ～二次元美少女をすこるオタクの会～ Vol.04 .5 ～THE IDOLM@STER Festival!!～](https://twipla.jp/events/435708)|29日14時〜|[新宿Azito](https://sinjuku-azito.com/)
+[にじすこ！ ～二次元美少女をすこるオタクの会～ Vol.04 .5 ～THE IDOLM@STER Festival!!～](https://twipla.jp/events/435708)|延期|[新宿Azito](https://sinjuku-azito.com/)
 [札幌アイマス交流会](https://twipla.jp/events/424431)|31日18時|[札幌ロコトンテ](https://www.locotonte.com/)
 
 # 2020年2月
