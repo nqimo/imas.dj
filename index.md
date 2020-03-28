@@ -7,6 +7,7 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
+[アイマスガールズナイト外伝](http://r-alchemi.jp/my-calendar/)|7日19時〜|[両国あるけみっ！](http://r-alchemi.jp/)
 [ほぴ☆じゃむ↑15回目 DANCE MASTER実験部](https://twipla.jp/events/430421)|延期|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [M@STER BOWL #5](https://twipla.jp/events/421797)|20日13時〜|[中野heavysickZERO](http://www.heavysick.co.jp/zero/)
 [第三回アイドルマスター違反者講習会](https://twipla.jp/events/431006)|22日14時〜|[六本木V2 TOKYO](https://www.v2tokyo.com/)
