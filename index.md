@@ -7,7 +7,7 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
-[DJびばえいちデビュー配信（仮）](https://www.twitch.tv/viva_h)|7日にDDJ-400到着予定|[Twitchオンライン配信](https://www.twitch.tv/viva_h)
+[DJびばえいち開封配信（仮）](https://www.twitch.tv/viva_h)|7日にDDJ-400到着予定|[Twitchオンライン配信](https://www.twitch.tv/viva_h)
 
 # 2020年3月
 
