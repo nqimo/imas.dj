@@ -3,6 +3,12 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2020年4月
+
+パーティー|日時|場所
+-|-|-
+[DJびばえいちデビュー配信（仮）](https://www.twitch.tv/viva_h)|7日辺り|[Twitchオンライン配信](https://www.twitch.tv/viva_h)
+
 # 2020年3月
 
 パーティー|日時|場所
