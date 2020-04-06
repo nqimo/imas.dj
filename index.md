@@ -7,7 +7,7 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
-[DJびばえいち開封配信](https://www.twitch.tv/viva_h)|7日にDDJ-400到着予定|[Twitchオンライン配信](https://www.twitch.tv/viva_h)
+[DJびばえいち開封配信](https://www.twitch.tv/viva_h)|7日にDDJ-400到着予定だったが、[6日到着済](https://twitter.com/nikowarih/status/1246967697948065792)|[Twitchオンライン配信](https://www.twitch.tv/viva_h)
 
 # 2020年3月
 
