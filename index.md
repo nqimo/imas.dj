@@ -7,7 +7,7 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
-[DJびばえいち開封配信](https://www.twitch.tv/viva_h)|7日22時〜|[Twitchオンライン配信](https://www.twitch.tv/viva_h)
+[DJびばえいち開封配信](https://www.twitch.tv/viva_h)|6日22時〜|[Twitchオンライン配信](https://www.twitch.tv/viva_h)
 
 # 2020年3月
 
