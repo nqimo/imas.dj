@@ -3,15 +3,16 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
-# 2020年5月
+# 2020年6月
 
 パーティー|日時|場所
 -|-|-
-[66 Nights](https://nonakachin.tumblr.com/post/619274219341086720/66nights%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E7%94%BB%E5%83%8F-%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%B3%E3%81%B0%E3%81%88%E3%81%84%E3%81%A1%E5%85%88%E7%94%9F)|6日21時〜|[Twitchオンライン配信](https://www.twitch.tv/BCP24)  
+[66 Nights](https://nonakachin.tumblr.com/post/619274219341086720)|6日21時〜|[Twitchオンライン配信](https://www.twitch.tv/BCP24)  
 [アイマス交流会inオンライン](https://twitter.com/imas_tokyooff/status/1267114692754812929?s=21)|7日19時〜|[Twitchオンライン配信](https://www.twitch.tv/kuranpukurou)  
 [アイマス交流会inオンライン](https://twitter.com/imas_tokyooff/status/1267114692754812929?s=21)|14日19時〜|[Twitchオンライン配信](https://www.twitch.tv/kuranpukurou)  
 [アイマス交流会inオンライン](https://twitter.com/imas_tokyooff/status/1267114692754812929?s=21)|21日19時〜|[Twitchオンライン配信](https://www.twitch.tv/kuranpukurou)  
 [アイマス交流会inオンライン](https://twitter.com/imas_tokyooff/status/1267114692754812929?s=21)|28日19時〜|[Twitchオンライン配信](https://www.twitch.tv/kuranpukurou)  
+
 # 2020年5月
 
 パーティー|日時|場所
