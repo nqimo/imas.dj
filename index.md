@@ -7,6 +7,18 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
+[アイマス交流会inオンライン](https://twitter.com/imas_tokyooff/status/1267114692754812929?s=21
+)|7日19時〜|[Twitchオンライン配信](https://www.twitch.tv/kuranpukurou)
+[アイマス交流会inオンライン](https://twitter.com/imas_tokyooff/status/1267114692754812929?s=21
+)|14日19時〜|[Twitchオンライン配信](https://www.twitch.tv/kuranpukurou)
+[アイマス交流会inオンライン](https://twitter.com/imas_tokyooff/status/1267114692754812929?s=21
+)|21日19時〜|[Twitchオンライン配信](https://www.twitch.tv/kuranpukurou)
+[アイマス交流会inオンライン](https://twitter.com/imas_tokyooff/status/1267114692754812929?s=21
+)|28日19時〜|[Twitchオンライン配信](https://www.twitch.tv/kuranpukurou)
+# 2020年5月
+
+パーティー|日時|場所
+-|-|-
 [アイマス交流会inオンライン](https://twitter.com/imas_Tokyooff/status/1258965762410078210?s=20)|9日15時〜|[Twitchオンライン配信](https://www.twitch.tv/kuranpukurou)
 
 # 2020年4月
