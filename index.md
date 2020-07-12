@@ -16,6 +16,10 @@ title: アイマスDJイベントまとめ
 [M@STER PRODUCE〜7th LIVE〜](https://twipla.jp/events/449800)|11日13時〜|[札幌ふぁーすて](https://twitter.com/1ststage1)  
 [デレPオフ会in愛媛](https://twipla.jp/events/449965)|11日14時〜|[アニメBar Connect](https://twitter.com/animebarconnect)  
 [第2回 #さよます](https://twipla.jp/events/449706)|18日20時半〜|[Twitch](https://www.twitch.tv/ragihi)  
+[#アイマスオタクらぶ vol.2](https://twipla.jp/events/452600)|19日12時半〜|[Twitch](https://www.twitch.tv/barroth38)  
+[#ますてる Vol.4 -SUMMER PARTY2020- 昼の部](https://twipla.jp/events/449053)|24日11時〜|[casuarise 南池袋](http://casuarise.com/archives/space/minamiikebukuro)  
+[#ますてる Vol.4 -SUMMER PARTY2020- 夜の部](https://twipla.jp/events/449054)|24日16時〜|[casuarise 南池袋](http://casuarise.com/archives/space/minamiikebukuro)  
+
 
 # 2020年6月
 
