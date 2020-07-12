@@ -3,6 +3,12 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2020年8月
+
+パーティー|日時|場所
+-|-|-
+[ミリドリ！ -MILLION DREAMERS!-](https://twipla.jp/events/451271)|8日12時〜|[新宿Azito](https://sinjuku-azito.com/)  
+
 # 2020年7月
 
 パーティー|日時|場所
