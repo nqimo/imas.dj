@@ -7,7 +7,9 @@ title: アイマスDJイベントまとめ
 
 パーティー|日時|場所
 -|-|-
+[Hotel Raizeenside off -#ホテライ番外編](https://twipla.jp/events/452484)|1日|[中野雷神](http://www.raizeen.com/)  
 [ミリドリ！ -MILLION DREAMERS!-](https://twipla.jp/events/451271)|8日12時〜|[新宿Azito](https://sinjuku-azito.com/)  
+[THE IDOLM@STER SideP 〜6th Season〜](https://twipla.jp/events/440866)|10日12時〜|[川崎月明かり夢てらす](http://tsukiyume.com/)  
 
 # 2020年7月
 
