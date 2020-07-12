@@ -3,6 +3,13 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2020年7月
+
+パーティー|日時|場所
+-|-|-
+[M@STER PRODUCE〜7th LIVE〜](https://twipla.jp/events/449800)|11日13時〜|[札幌ふぁーすて](https://twitter.com/1ststage1)  
+[デレPオフ会in愛媛](https://twipla.jp/events/449965)|11日14時〜|[アニメBar Connect](https://twitter.com/animebarconnect)  
+
 # 2020年6月
 
 パーティー|日時|場所
