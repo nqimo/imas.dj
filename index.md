@@ -19,7 +19,8 @@ title: アイマスDJイベントまとめ
 [#アイマスオタクらぶ vol.2](https://twipla.jp/events/452600)|19日12時半〜|[Twitch](https://www.twitch.tv/barroth38)  
 [#ますてる Vol.4 -SUMMER PARTY2020- 昼の部](https://twipla.jp/events/449053)|24日11時〜|[casuarise 南池袋](http://casuarise.com/archives/space/minamiikebukuro)  
 [#ますてる Vol.4 -SUMMER PARTY2020- 夜の部](https://twipla.jp/events/449054)|24日16時〜|[casuarise 南池袋](http://casuarise.com/archives/space/minamiikebukuro)  
-
+[＃スプオタ](https://twipla.jp/events/445107)|24日23時半〜|[スタジオよもだ　studio2](https://www.studioyomoda.com)  
+[#ハピマス Vol.5](https://twipla.jp/events/450765)|25日14時〜|[日本橋barguild6F](http://barguild.com)  
 
 # 2020年6月
 
