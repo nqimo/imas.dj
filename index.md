@@ -17,11 +17,12 @@ title: アイマスDJイベントまとめ
 -|-|-
 [M@STER PRODUCE〜7th LIVE〜](https://twipla.jp/events/449800)|11日13時〜|[札幌ふぁーすて](https://twitter.com/1ststage1)  
 [デレPオフ会in愛媛](https://twipla.jp/events/449965)|11日14時〜|[アニメBar Connect](https://twitter.com/animebarconnect)  
-[第2回 #さよます](https://twipla.jp/events/449706)|18日20時半〜|[Twitch](https://www.twitch.tv/ragihi)  
+[第2回 #さよますday1](https://twipla.jp/events/449706)|18日20時半〜|[Twitch](https://www.twitch.tv/ragihi)  
 [#アイマスオタクらぶ vol.2](https://twipla.jp/events/452600)|19日12時半〜|[Twitch](https://www.twitch.tv/barroth38)  
+[第2回 #さよますday2](https://twipla.jp/events/449706)|19日18時半〜|[Twitch](https://www.twitch.tv/ragihi)  
 [#ますてる Vol.4 -SUMMER PARTY2020- 昼の部](https://twipla.jp/events/449053)|24日11時〜|[casuarise 南池袋](http://casuarise.com/archives/space/minamiikebukuro)  
 [#ますてる Vol.4 -SUMMER PARTY2020- 夜の部](https://twipla.jp/events/449054)|24日16時〜|[casuarise 南池袋](http://casuarise.com/archives/space/minamiikebukuro)  
-[＃スプオタ](https://twipla.jp/events/445107)|24日23時半〜|[スタジオよもだ　studio2](https://www.studioyomoda.com)  
+[#スプオタ](https://twipla.jp/events/445107)|24日23時半〜|[スタジオよもだ　studio2](https://www.studioyomoda.com)  
 [#ハピマス Vol.5](https://twipla.jp/events/450765)|25日14時〜|[日本橋barguild6F](http://barguild.com)  
 
 # 2020年6月
