@@ -3,6 +3,12 @@ layout: home
 title: アイマスDJイベントまとめ
 ---
 
+# 2020年9月
+
+パーティー|日時|場所
+-|-|-
+[M@SS PRODUCTION](https://twitch.tv/imasidpro)|20日15時～|[Twitch](https://twitch.tv/imasidpro)  
+
 # 2020年8月
 
 パーティー|日時|場所
